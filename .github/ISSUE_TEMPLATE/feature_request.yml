@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest an idea or improvement for Aether Mail
+description: Suggest an idea or improvement for Aether Wallet
 title: "[Feature]: "
 labels: [enhancement]
 assignees: []
@@ -15,7 +15,7 @@ body:
     attributes:
       label: Feature Summary
       description: Give a short title or summary of your idea.
-      placeholder: ex. Dark Mode for Webmail
+      placeholder: ex. Dark Mode for wallet
 
   - type: textarea
     id: description

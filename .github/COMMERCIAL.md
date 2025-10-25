@@ -1,6 +1,6 @@
-# Commercial Use of Aether Mail
+# Commercial Use of Aether Wallet
 
-Aether Mail is released under the [GNU Affero General Public License v3.0 (AGPLv3)](https://www.gnu.org/licenses/agpl-3.0.html).
+Aether Wallet is released under the [Apache 2.0 Licence](https://apache.org).
 
 ## ✅ What You Can Do
 
@@ -11,9 +11,9 @@ Aether Mail is released under the [GNU Affero General Public License v3.0 (AGPLv
 
 You **must contact Sky Genesis Enterprise** and obtain a commercial license **if you plan to**:
 
-- Offer Aether Mail as a paid or free SaaS (Software-as-a-Service) product.
-- Bundle Aether Mail into a commercial product or platform.
-- Use Aether Mail in a business context without open-sourcing your modifications and dependencies (as required by AGPLv3).
+- Offer Aether Wallet as a paid or free SaaS (Software-as-a-Service) product.
+- Bundle Aether Wallet into a commercial product or platform.
+- Use Aether Wallet in a business context without open-sourcing your modifications and dependencies (as required by Apache 2.0).
 - Require a proprietary license or want to avoid the AGPLv3 copyleft obligations.
 
 ## 🧾 Why a Commercial License?
@@ -34,4 +34,4 @@ For commercial licensing, support, or enterprise inquiries, please contact:
 
 ---
 
-**Note:** Using Aether Mail in a commercial environment **without respecting the AGPLv3 terms or without a commercial license** may constitute a license violation.
+**Note:** Using Aether Wallet in a commercial environment **without respecting the AGPLv3 terms or without a commercial license** may constitute a license violation.

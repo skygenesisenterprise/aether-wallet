@@ -1,6 +1,6 @@
 # Support
 
-Thank you for using **Aether Mail** — an open-source email client developed and maintained by [Sky Genesis Enterprise](https://skygenesisenterprise.com).
+Thank you for using **Aether Wallet** — an open-source wallet client developed and maintained by [Sky Genesis Enterprise](https://skygenesisenterprise.com).
 
 We’re committed to providing a great experience, and there are several ways you can get support depending on your needs:
 
@@ -8,7 +8,7 @@ We’re committed to providing a great experience, and there are several ways yo
 
 ## 🆓 Community Support
 
-If you're using the open-source version of Aether Mail and need help with:
+If you're using the open-source version of Aether Wallet and need help with:
 
 - Installation
 - Configuration
@@ -17,8 +17,8 @@ If you're using the open-source version of Aether Mail and need help with:
 
 Please use one of the following channels:
 
-- 💬 [GitHub Discussions](https://github.com/Sky-Genesis-Enterprise/aether-mail/discussions)
-- 🐞 [GitHub Issues](https://github.com/Sky-Genesis-Enterprise/aether-mail/issues) – for bug reports only
+- 💬 [GitHub Discussions](https://github.com/skygenesisenterprise/aether-wallet/discussions)
+- 🐞 [GitHub Issues](https://github.com/skygenesisenterprise/aether-wallet/issues) – for bug reports only
 - 📚 [Documentation](https://wiki.skygenesisenterprise.com)
 
 Our community and contributors will do their best to assist.
@@ -53,7 +53,7 @@ Instead, report it responsibly to our security team:
 
 ## 🙏 Contributing
 
-Want to help improve Aether Mail?  
+Want to help improve Aether Wallet?  
 Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide for how to get started.
 
 Thanks for supporting open-source!
