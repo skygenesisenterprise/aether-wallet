@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Aether Wallet backend is running");
 }
