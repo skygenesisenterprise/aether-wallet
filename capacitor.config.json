@@ -1,0 +1,10 @@
+{
+  "appId": "com.aetherwallet.com",
+  "appName": "Aether Wallet",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
