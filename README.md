@@ -1,1 +1,1 @@
-# aether-wallet
+# Aether Wallet
